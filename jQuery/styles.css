@@ -9,3 +9,8 @@ h1 {
 div {
     text-align: center;
 }
+
+.extra {
+    font-size: 10rem;
+    color: yellow;
+}
